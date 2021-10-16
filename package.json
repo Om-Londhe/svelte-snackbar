@@ -1,0 +1,24 @@
+{
+  "name": "svelte-snackbar",
+  "version": "1.0.0",
+  "description": "An awesome snackbar for Svelte and SvelteKit projects",
+  "main": "snackbar.svelte",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Om-Londhe/svelte-snackbar.git"
+  },
+  "keywords": [
+    "OmLondhe",
+    "Svelte",
+    "SvelteKit"
+  ],
+  "author": "Om Londhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Om-Londhe/svelte-snackbar/issues"
+  },
+  "homepage": "https://github.com/Om-Londhe/svelte-snackbar#readme"
+}
